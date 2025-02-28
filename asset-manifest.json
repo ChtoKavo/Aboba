@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aboba/static/css/main.f855e6bc.css",
+    "main.js": "/Aboba/static/js/main.c667c2bd.js",
+    "static/js/453.ed3810f9.chunk.js": "/Aboba/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Aboba/index.html",
+    "main.f855e6bc.css.map": "/Aboba/static/css/main.f855e6bc.css.map",
+    "main.c667c2bd.js.map": "/Aboba/static/js/main.c667c2bd.js.map",
+    "453.ed3810f9.chunk.js.map": "/Aboba/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c667c2bd.js"
+  ]
+}
